@@ -3,8 +3,8 @@
 8-bit CPU developed in Logisim following [this](https://youtube.com/playlist?list=PL26O2JyrmxV7CWzV9hCCJWMyiOlVMIF8z) series of YouTube videos by Dawit Kefyalew.
 
 ## Features
- - A
- - B
+ - A Register
+ - B Register
  - Memory Address Register (MAR)
  - Memory Buffer Register (MBR)
  - Instruction Register (IR)
